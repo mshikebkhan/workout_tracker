@@ -1,6 +1,4 @@
-This is a simple PythoHere is the revised text:
-
-"Below is a simple Python program that you can use to track your workout training. It utilizes the Nutritionix API to convert human text to proper exercise data. For example, if you type 'I ran for 10 minutes,' we send this to the API and it will return the average time taken and calories burnt.
+This is a simple Python program that you can use to track your workout training. It utilizes the Nutritionix API to convert human text to proper exercise data. For example, if you type 'I ran for 10 minutes,' we send this to the API and it will return the average time taken and calories burnt.
 
 We also incorporate the Sheety API, which connects directly to your Google Sheet, to update workout data. Both Nutritionix and Sheety are free to use, so Sign up and obtain your API keys.
 
